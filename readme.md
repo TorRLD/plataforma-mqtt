@@ -264,7 +264,7 @@ Pull requests bem documentados e testados são muito bem‑vindos!
 
 ## 📝 Licença
 
-Distribuído sob a **Licença MIT** – veja [`LICENSE`](https://claude.ai/chat/LICENSE) para detalhes.
+Distribuído sob a **Licença MIT** – veja [`LICENSE`](LICENSE) para detalhes.
 
 ---
 
