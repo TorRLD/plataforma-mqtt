@@ -25,8 +25,8 @@
 #include "ws2812.pio.h"     // Biblioteca para Matriz WS2812
 
 // Configurações
-#define WIFI_SSID     "Nando Barbearia"
-#define WIFI_PASSWORD "nando2661"
+#define WIFI_SSID     "SUA_SSID"
+#define WIFI_PASSWORD "SUA_SENHA"
 #define BROKER_IP     "192.168.2.107" 
 #define BROKER_PORT   1885
 
