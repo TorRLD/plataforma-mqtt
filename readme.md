@@ -246,8 +246,7 @@ flowchart TD
 | -------------------------------- | -------------------------------------------------- |
 | **MQTT não conecta**      | Verificar IP do broker, firewall e rede Wi-Fi      |
 | **Joystick descalibrado**  | Ajustar `ADC_CENTER_X/Y`em `plataforma-mqtt.c` |
-| **Display não funciona**  | Verificar conexões I²C (GPIO 14/15)              |
-| **LED matrix não acende** | Verificar alimentação 5V e conexão PIO          |
+
 
 ---
 
